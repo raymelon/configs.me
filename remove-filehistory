@@ -1,0 +1,5 @@
+#!/bin/bash
+txt=$(<R580-TUX.sublime-workspace)
+appnd="$(echo "$txt" | jq '.file_history=[]')"
+#echo "$appnd"
+echo "$appnd" > R580-TUX.sublime-workspace
