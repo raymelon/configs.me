@@ -12,6 +12,15 @@
 	[
 		{
 			"path": "/home/raymelon/.config/fish"
+		},
+		{
+			"path": "/opt/sublime_text/Packages"
+		},
+		{
+			"path": "/home/raymelon/.config/sublime-text-3/Packages"
+		},
+		{
+			"path": "/home/raymelon/.config/sublime-text-3/Installed Packages"
 		}
 	]
 }
