@@ -1,627 +1,535 @@
 {
-  "auto_complete": {
-    "selected_items": [
-      [
-        "pad",
-        "padding-top"
-      ],
-      [
-        "marg",
-        "margin-left"
-      ],
-      [
-        "dis",
-        "Disgust"
-      ],
-      [
-        "ge",
-        "getElementById"
-      ],
-      [
-        "fil",
-        "filename"
-      ],
-      [
-        "margi",
-        "margin-right"
-      ],
-      [
-        "wid",
-        "width"
-      ],
-      [
-        "di",
-        "dir_working\tstatement"
-      ],
-      [
-        "App",
-        "AppIndicator"
-      ],
-      [
-        "trai",
-        "training_size"
-      ],
-      [
-        "out",
-        "outputs"
-      ],
-      [
-        "f",
-        "feed_dict"
-      ],
-      [
-        "tr",
-        "training_outputs"
-      ],
-      [
-        "train",
-        "training_inputs"
-      ],
-      [
-        "we",
-        "weights_output"
-      ],
-      [
-        "hid",
-        "hidden_outputs"
-      ],
-      [
-        "weig",
-        "weights_hidden"
-      ],
-      [
-        "inpu",
-        "input_outputs"
-      ],
-      [
-        "_labe",
-        "_label3"
-      ],
-      [
-        "Ho",
-        "HORIZONTAL"
-      ],
-      [
-        "_bt",
-        "_btn_settings"
-      ],
-      [
-        "_btn",
-        "_btn_settings_img"
-      ],
-      [
-        "bt",
-        "_btn_settings_img"
-      ],
-      [
-        "_b",
-        "_btn_settings"
-      ],
-      [
-        "next",
-        "next_check"
-      ],
-      [
-        "nex",
-        "Next"
-      ],
-      [
-        "hr",
-        "hrs_to_six"
-      ],
-      [
-        "cu",
-        "current_min"
-      ],
-      [
-        "curr",
-        "current_hr"
-      ],
-      [
-        "hrs",
-        "hrs_to_twelve_am"
-      ],
-      [
-        "te",
-        "twelve_am"
-      ],
-      [
-        "six",
-        "six_am"
-      ],
-      [
-        "cur",
-        "current_hr"
-      ]
-    ]
-  },
-  "buffers": [
-    {
-      "file": "/home/raymelon/.config/fish/config.fish",
-      "settings": {
-        "buffer_size": 81,
-        "line_ending": "Unix"
-      }
-    },
-    {
-      "file": "/home/raymelon/.bashrc",
-      "settings": {
-        "buffer_size": 6198,
-        "encoding": "UTF-8",
-        "line_ending": "Unix"
-      }
-    },
-    {
-      "file": "remove-filehistory",
-      "settings": {
-        "buffer_size": 152,
-        "encoding": "UTF-8",
-        "line_ending": "Unix",
-        "name": "#!/bin/sh"
-      }
-    },
-    {
-      "file": "/etc/init.d/rc.local",
-      "settings": {
-        "buffer_size": 820,
-        "line_ending": "Unix"
-      }
-    },
-    {
-      "file": "/etc/rc.local",
-      "settings": {
-        "buffer_size": 329,
-        "line_ending": "Unix"
-      }
-    },
-    {
-      "file": "/home/raymelon/anaconda3/etc/fish/conf.d/conda.fish",
-      "settings": {
-        "buffer_size": 7192,
-        "line_ending": "Unix"
-      }
-    },
-    {
-      "file": "/home/raymelon/.trello-cli/config.json",
-      "settings": {
-        "buffer_size": 187,
-        "encoding": "UTF-8",
-        "line_ending": "Unix"
-      }
-    },
-    {
-      "file": "/home/raymelon/Documents/trello-cli-custom-auth-token.txt",
-      "settings": {
-        "buffer_size": 94,
-        "encoding": "UTF-8",
-        "line_ending": "Unix"
-      }
-    }
-  ],
-  "build_system": "",
-  "build_system_choices": [
-    [
-      [
-        [
-          "Packages/Python/Python.sublime-build",
-          ""
-        ],
-        [
-          "Packages/Python/Python.sublime-build",
-          "Syntax Check"
-        ]
-      ],
-      [
-        "Packages/Python/Python.sublime-build",
-        ""
-      ]
-    ]
-  ],
-  "build_varint": "",
-  "command_palette": {
-    "height": 243,
-    "last_filter": "preview",
-    "selected_items": [
-      [
-        "preview",
-        "Markdown Preview: Preview in Browser"
-      ],
-      [
-        "markd",
-        "Markdown Preview: Preview in Browser"
-      ],
-      [
-        "livere",
-        "LiveReload: Enable/disable plug-ins"
-      ],
-      [
-        "live",
-        "LiveReload: Self test"
-      ],
-      [
-        "inst",
-        "Package Control: Install Package"
-      ],
-      [
-        "markdownPrevi",
-        "Markdown Preview: Preview in Browser"
-      ],
-      [
-        "install",
-        "Package Control: Install Package"
-      ],
-      [
-        "Package Control: ",
-        "Package Control: Install Package"
-      ],
-      [
-        "select skin",
-        "UI: Select Skin"
-      ],
-      [
-        "instal",
-        "Package Control: Install Package"
-      ],
-      [
-        "vmen",
-        "View: Toggle Menu"
-      ]
-    ],
-    "width": 508
-  },
-  "console": {
-    "height": 166,
-    "history": [
-      "exit()",
-      "exit",
-      "chmod u+x off"
-    ]
-  },
-  "distraction_free": {
-    "menu_visible": true,
-    "show_minimap": false,
-    "show_open_files": false,
-    "show_tabs": false,
-    "side_bar_visible": false,
-    "status_bar_visible": false
-  },
-  "expanded_folders": [
-    "/home/raymelon/.config/fish"
-  ],
-  "file_history": [],
-  "find": {
-    "height": 39
-  },
-  "find_in_files": {
-    "height": 0,
-    "where_history": []
-  },
-  "find_state": {
-    "case_sensitive": false,
-    "find_history": [
-      "file_history",
-      "0.0",
-      "0.000",
-      "0.",
-      "activation",
-      "logits",
-      "outputs",
-      "0.00000",
-      "0.00",
-      "0.",
-      "regenOn",
-      "scanNetwork",
-      "getDefault",
-      "scanNetwork",
-      "Network Scannin",
-      "MarlinViewWindow .source-list.sidebar.view",
-      "MarlinViewWindow .source-list.sidebar.view row",
-      ".source-list.sidebar.view",
-      "_box",
-      "hrs_to_six",
-      "\"xset -led named 'Scroll Lock'\"",
-      "\"xset led named 'Scroll Lock'\"",
-      "\"",
-      "-icontheme",
-      "Arrow",
-      "back",
-      ".panel",
-      "minimize",
-      ".panel",
-      ".composited-indicator",
-      "Panel"
-    ],
-    "highlight": true,
-    "in_selection": false,
-    "preserve_case": false,
-    "regex": false,
-    "replace_history": [
-      "0.00",
-      "0.0",
-      "",
-      "0.000",
-      "output_activation",
-      "activation",
-      "0.",
-      "0.00000",
-      "0.00",
-      "_box_hor",
-      "min_to_six",
-      "xset -led named 'Scroll Lock'",
-      "xset led named 'Scroll Lock'",
-      "'"
-    ],
-    "reverse": false,
-    "show_context": true,
-    "use_buffer2": true,
-    "whole_word": false,
-    "wrap": false
-  },
-  "groups": [
-    {
-      "selected": 2,
-      "sheets": [
-        {
-          "buffer": 0,
-          "file": "/home/raymelon/.config/fish/config.fish",
-          "semi_transient": false,
-          "settings": {
-            "buffer_size": 81,
-            "regions": {},
-            "selection": [
-              [
-                81,
-                81
-              ]
-            ],
-            "settings": {
-              "syntax": "Packages/Text/Plain text.tmLanguage"
-            },
-            "translation.x": 0,
-            "translation.y": 0,
-            "zoom_level": 1
-          },
-          "stack_index": 2,
-          "type": "text"
-        },
-        {
-          "buffer": 1,
-          "file": "/home/raymelon/.bashrc",
-          "semi_transient": false,
-          "settings": {
-            "buffer_size": 6198,
-            "regions": {},
-            "selection": [
-              [
-                6195,
-                6195
-              ]
-            ],
-            "settings": {
-              "syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
-              "tab_size": 4,
-              "translate_tabs_to_spaces": true
-            },
-            "translation.x": 0,
-            "translation.y": 2566,
-            "zoom_level": 1
-          },
-          "stack_index": 1,
-          "type": "text"
-        },
-        {
-          "buffer": 2,
-          "file": "remove-filehistory",
-          "semi_transient": false,
-          "settings": {
-            "buffer_size": 152,
-            "regions": {},
-            "selection": [
-              [
-                152,
-                152
-              ]
-            ],
-            "settings": {
-              "auto_name": "#!/bin/sh",
-              "syntax": "Packages/Text/Plain text.tmLanguage"
-            },
-            "translation.x": 0,
-            "translation.y": 0,
-            "zoom_level": 1
-          },
-          "stack_index": 0,
-          "type": "text"
-        },
-        {
-          "buffer": 3,
-          "file": "/etc/init.d/rc.local",
-          "semi_transient": false,
-          "settings": {
-            "buffer_size": 820,
-            "regions": {},
-            "selection": [
-              [
-                0,
-                0
-              ]
-            ],
-            "settings": {
-              "syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
-              "tab_size": 4,
-              "translate_tabs_to_spaces": true
-            },
-            "translation.x": 0,
-            "translation.y": 0,
-            "zoom_level": 1
-          },
-          "stack_index": 6,
-          "type": "text"
-        },
-        {
-          "buffer": 4,
-          "file": "/etc/rc.local",
-          "semi_transient": false,
-          "settings": {
-            "buffer_size": 329,
-            "regions": {},
-            "selection": [
-              [
-                329,
-                329
-              ]
-            ],
-            "settings": {
-              "syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
-            },
-            "translation.x": 0,
-            "translation.y": 0,
-            "zoom_level": 1
-          },
-          "stack_index": 7,
-          "type": "text"
-        },
-        {
-          "buffer": 5,
-          "file": "/home/raymelon/anaconda3/etc/fish/conf.d/conda.fish",
-          "semi_transient": false,
-          "settings": {
-            "buffer_size": 7192,
-            "regions": {},
-            "selection": [
-              [
-                157,
-                157
-              ]
-            ],
-            "settings": {
-              "syntax": "Packages/Text/Plain text.tmLanguage",
-              "tab_size": 2,
-              "translate_tabs_to_spaces": true
-            },
-            "translation.x": 0,
-            "translation.y": 0,
-            "zoom_level": 1
-          },
-          "stack_index": 5,
-          "type": "text"
-        },
-        {
-          "buffer": 6,
-          "file": "/home/raymelon/.trello-cli/config.json",
-          "semi_transient": false,
-          "settings": {
-            "buffer_size": 187,
-            "regions": {},
-            "selection": [
-              [
-                187,
-                187
-              ]
-            ],
-            "settings": {
-              "syntax": "Packages/JavaScript/JSON.sublime-syntax"
-            },
-            "translation.x": 0,
-            "translation.y": 0,
-            "zoom_level": 1
-          },
-          "stack_index": 3,
-          "type": "text"
-        },
-        {
-          "buffer": 7,
-          "file": "/home/raymelon/Documents/trello-cli-custom-auth-token.txt",
-          "semi_transient": false,
-          "settings": {
-            "buffer_size": 94,
-            "regions": {},
-            "selection": [
-              [
-                0,
-                0
-              ]
-            ],
-            "settings": {
-              "syntax": "Packages/Text/Plain text.tmLanguage"
-            },
-            "translation.x": 0,
-            "translation.y": 0,
-            "zoom_level": 1
-          },
-          "stack_index": 4,
-          "type": "text"
-        }
-      ]
-    }
-  ],
-  "incremental_find": {
-    "height": 24
-  },
-  "input": {
-    "height": 48
-  },
-  "layout": {
-    "cells": [
-      [
-        0,
-        0,
-        1,
-        1
-      ]
-    ],
-    "cols": [
-      0,
-      1
-    ],
-    "rows": [
-      0,
-      1
-    ]
-  },
-  "menu_visible": true,
-  "output.exec": {
-    "height": 109
-  },
-  "output.find_results": {
-    "height": 0
-  },
-  "pinned_build_system": "",
-  "project": "R580-TUX.sublime-project",
-  "replace": {
-    "height": 44
-  },
-  "save_all_on_build": true,
-  "select_file": {
-    "height": 0,
-    "last_filter": "",
-    "selected_items": [],
-    "width": 0
-  },
-  "select_project": {
-    "height": 500,
-    "last_filter": "",
-    "selected_items": [
-      [
-        "",
-        "~/Documents/PUP Files/8th Sem/Eliana/eliana.sublime-project"
-      ]
-    ],
-    "width": 380
-  },
-  "select_symbol": {
-    "height": 0,
-    "last_filter": "",
-    "selected_items": [],
-    "width": 0
-  },
-  "selected_group": 0,
-  "settings": {},
-  "show_minimap": true,
-  "show_open_files": true,
-  "show_tabs": true,
-  "side_bar_visible": true,
-  "side_bar_width": 165,
-  "status_bar_visible": true,
-  "template_settings": {}
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"dis",
+				"Disgust"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"dir_working\tstatement"
+			],
+			[
+				"App",
+				"AppIndicator"
+			],
+			[
+				"trai",
+				"training_size"
+			],
+			[
+				"out",
+				"outputs"
+			],
+			[
+				"f",
+				"feed_dict"
+			],
+			[
+				"tr",
+				"training_outputs"
+			],
+			[
+				"train",
+				"training_inputs"
+			],
+			[
+				"we",
+				"weights_output"
+			],
+			[
+				"hid",
+				"hidden_outputs"
+			],
+			[
+				"weig",
+				"weights_hidden"
+			],
+			[
+				"inpu",
+				"input_outputs"
+			],
+			[
+				"_labe",
+				"_label3"
+			],
+			[
+				"Ho",
+				"HORIZONTAL"
+			],
+			[
+				"_bt",
+				"_btn_settings"
+			],
+			[
+				"_btn",
+				"_btn_settings_img"
+			],
+			[
+				"bt",
+				"_btn_settings_img"
+			],
+			[
+				"_b",
+				"_btn_settings"
+			],
+			[
+				"next",
+				"next_check"
+			],
+			[
+				"nex",
+				"Next"
+			],
+			[
+				"hr",
+				"hrs_to_six"
+			],
+			[
+				"cu",
+				"current_min"
+			],
+			[
+				"curr",
+				"current_hr"
+			],
+			[
+				"hrs",
+				"hrs_to_twelve_am"
+			],
+			[
+				"te",
+				"twelve_am"
+			],
+			[
+				"six",
+				"six_am"
+			],
+			[
+				"cur",
+				"current_hr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "remove-filehistory",
+			"settings":
+			{
+				"buffer_size": 152,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#!/bin/sh"
+			}
+		},
+		{
+			"file": "/etc/init.d/rc.local",
+			"settings":
+			{
+				"buffer_size": 820,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/etc/rc.local",
+			"settings":
+			{
+				"buffer_size": 306,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 243.0,
+		"last_filter": "preview",
+		"selected_items":
+		[
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"markdownPrevi",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"select skin",
+				"UI: Select Skin"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 508.0
+	},
+	"console":
+	{
+		"height": 166.0,
+		"history":
+		[
+			"exit()",
+			"exit",
+			"chmod u+x off"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/raymelon/.config/fish"
+	],
+	"file_history":
+	[
+		"/home/raymelon/Documents/trello-cli-custom-auth-token.txt",
+		"/home/raymelon/.trello-cli/config.json",
+		"/home/raymelon/.bashrc",
+		"/home/raymelon/anaconda3/etc/fish/conf.d/conda.fish",
+		"/home/raymelon/.config/fish/config.fish"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"file_history",
+			"0.0",
+			"0.000",
+			"0.",
+			"activation",
+			"logits",
+			"outputs",
+			"0.00000",
+			"0.00",
+			"0.",
+			"regenOn",
+			"scanNetwork",
+			"getDefault",
+			"scanNetwork",
+			"Network Scannin",
+			"MarlinViewWindow .source-list.sidebar.view",
+			"MarlinViewWindow .source-list.sidebar.view row",
+			".source-list.sidebar.view",
+			"_box",
+			"hrs_to_six",
+			"\"xset -led named 'Scroll Lock'\"",
+			"\"xset led named 'Scroll Lock'\"",
+			"\"",
+			"-icontheme",
+			"Arrow",
+			"back",
+			".panel",
+			"minimize",
+			".panel",
+			".composited-indicator",
+			"Panel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"0.00",
+			"0.0",
+			"",
+			"0.000",
+			"output_activation",
+			"activation",
+			"0.",
+			"0.00000",
+			"0.00",
+			"_box_hor",
+			"min_to_six",
+			"xset -led named 'Scroll Lock'",
+			"xset led named 'Scroll Lock'",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "remove-filehistory",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#!/bin/sh",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/etc/init.d/rc.local",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 820,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/etc/rc.local",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 109
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "R580-TUX.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/PUP Files/8th Sem/Eliana/eliana.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
