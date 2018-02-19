@@ -7,3 +7,11 @@ sudo apt-get install --no-install-recommends gnome-panel
 
 # JQ (JSON Processor)
 sudo apt-get install jq
+
+# psensor
+sudo apt-get install psensor
+
+# fluxgui
+sudo add-apt-repository ppa:nathan-renniewaldock/flux
+sudo apt-get update
+sudo apt-get install fluxgui
