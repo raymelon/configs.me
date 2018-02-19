@@ -4,3 +4,6 @@
 sudo apt-get install --no-install-recommends gnome-panel
 
 ## to run: gnome-desktop-item-edit --create-new ~/Desktop
+
+# JQ (JSON Processor)
+sudo apt-get install jq
