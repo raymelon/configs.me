@@ -6,6 +6,9 @@
 		},
 		{
 			"path": "/usr/share/applications"
+		},
+		{
+			"path": "/home/rayman/.local/share/Trash"
 		}
 	]
 }
