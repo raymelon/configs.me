@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "/home/rayman/Documents/Sides/configs.me"
+		},
+		{
+			"path": "/usr/share/applications"
 		}
 	]
 }
