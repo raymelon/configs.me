@@ -9,6 +9,9 @@
 		},
 		{
 			"path": "/home/rayman/.local/share/Trash"
+		},
+		{
+			"path": "/home/rayman/.config/autostart"
 		}
 	]
 }
