@@ -12,6 +12,9 @@
 		},
 		{
 			"path": "/home/rayman/.config/autostart"
+		},
+		{
+			"path": "/home/rayman/Android"
 		}
 	]
 }
