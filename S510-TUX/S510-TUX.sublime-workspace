@@ -20,6 +20,36 @@
       }
     },
     {
+      "contents": "Hi @blingco,\n\nSince Tracer screen is still a work in progress, I suggest we have a table to monitor the status of each letter.\n\nBelow are the table headings,\n\n| `Letter` | `Status` | `Fixed` |\n| ------ | ------ | ----- |\n| ... | ... | <ul><li>- [x] </li> |\n\n`Status` can be:\n- Oversized\n- Misaligned\n- Not showing\n- Slightly different (1 to 2 strokes are different from the expected stroke of the letter)\n- Overly different (3 or more strokes are different from the expected stroke of the letter)\n\nStrokes are counted as follows:\n\n1. A stroke ends upon:\n - Reaching an angular edge. (e.g. N has 3 strokes, M has 4)\n - Reaching the endpoint\n - Elliptical strokes end upon completion of its orbit (e.g. D has 2 strokes, O has 1, G has 3)\n\n2. A stroke starts upon:\n - The first endpoint of a stroke.\n\n`Fixed` can be:\n<ul><li>- [x] </li> or <ul><li>- [ ] </li>",
+      "settings": {
+        "buffer_size": 856,
+        "line_ending": "Unix",
+        "name": "Hi @blingco,"
+      }
+    },
+    {
+      "contents": "Isang Maganda na Hardin\n\nTINGNAN ang litratong ito! Maganda! Tignan ang mga halaman, mga bulaklak, at mga hayop. Puwede mo kaya na ituro ang elepante at ang leon?\n\nSaan galing ang maganda na hardin na ito? Tignan natin kung paano inihanda ng Diyos ang lupa para satin. \n\nUna, hinulugan ng Diyos ng berdeng damo ang ibabaw ng lupa. Tapos, ginawa niya ang lahat na klase ng halaman at kahoy. Ang pagtubo ng mga ito lalong nagpaganda sa lupa. Pero may iba pa tayong pakinabang diya. Nagbibigay iyan satin ng masasarap na pagkain.\n\nKaya, ginawa ng Diyos ang mga isda sa tubig at ang mga ibon sa langit. Ginawa niya ang mga aso at pusa saka kabayo, ang malalaki at ang maliliit na hayop. Anong mga hayop ang nakikita mo sa lugar ninyo? Dapat tayong matuwa na ginawa ito lahat ng Diyos para satin, hindi oo?\n\nNang huli, ginawa ng Diyos ang isang parte ng lupa na maging espesyal na mabuti. Tinawag nya ito na hardin ng Eden. Pambihira talaga ang lugar na ito. Ang lahat doon maganda. Gusto ng Diyos na ang buo na lupa maging tulad ng hardin na ito.\n\nPero tignan mo ulit ang litrato. Alam mo kaya kung ano ang napansin ng Diyos na kulang dito? Tingnan natin.\n\n  Ang Una na Lalaki At Babae\n\n  ANO ang naiiba sa litratong ito? Oo, may mga tao dito. Sila ang una na lalaki at babae. Sino ang gumawa sakanila? Ang Diyos. Alam mo an pangalan niya? Jehova. Ang lalaki at babae tinawag na Adan at Eva.\n\n  Pano ginawa ni Jehova si Adan? Kumuha siya ng alikabok sa lupa at pinorma iyon na maging perpektong katawan ng lalaki. Kasunod, inihipan niya ang ilong ng lalaki, kaya nabuhay si Adan.\n\n  Binigyan ni Jehova ng trabaho si Adan. Sinabi kay Adan na pangalanan ang ibat-iba na klase ng hayop. Siguro, matagal naman na pinagmasdan ni Adan ang mga hayop para makapili siya ng pinakamaganda na pangalan para sakanila lahat. Habang pinapangalanan ni Adan ang mga hayop, may nahalata siya. Alam mo kung ano?\n\n  Ang mga hayop ay lahat may kapares. May mga elepanteng tatay at elepanteng nanay, saka may mga tatay na leon at nanay na leon. Pero si Adan wala ng kapares. Kaya pinatulog ni Jehova ng mahimbing si Adan, tapos kinuha niya iyong isang tadyang sa katawan ni Adan. Galing sa tadyang na ito, gumawa si Jehova ng babae para kay Adan, at ito ang naging asawa niya.\n\n  Masaya na ngayon si Adan! Siguradong masaya rin si Eva na makatira sa maganda na hardin na ito! Puwede na silang magkaroon ng mga anak saka mabuhay nang masaya.\n\n  Gusto ni Jehova na mabuhay nang walang daing saka si Adan at Eva.\n  Gusto niyang pagandahin nila ang buo na lupa kapareho ng hardin ni Eden. Siguradong masaya si Adan at Eva habang iniisip nila ang trabahong ito! Gusto mo kaya na tumulong sa paggawa sa lupa na maging maganda na hardin? Pero hindi nagpatuloy ang kasiyahan ni Adan at Eva. Alamin natin kung bakit.",
+      "settings": {
+        "buffer_size": 2782,
+        "line_ending": "Unix",
+        "name": "Isang Maganda na Hardin"
+      }
+    },
+    {
+      "file": "/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/bigram.bk",
+      "settings": {
+        "buffer_size": 13527,
+        "line_ending": "Windows"
+      }
+    },
+    {
+      "file": "/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/bigram.tg",
+      "settings": {
+        "buffer_size": 13509,
+        "line_ending": "Windows"
+      }
+    },
+    {
       "file": "scripts/s510-core",
       "settings": {
         "buffer_size": 1587,
@@ -86,7 +116,7 @@
   ],
   "file_history": [],
   "find": {
-    "height": 44
+    "height": 30
   },
   "find_in_files": {
     "height": 111,
@@ -111,7 +141,7 @@
   },
   "groups": [
     {
-      "selected": 1,
+      "selected": 4,
       "sheets": [
         {
           "buffer": 0,
@@ -133,7 +163,7 @@
             "translation.y": 0,
             "zoom_level": 1
           },
-          "stack_index": 1,
+          "stack_index": 5,
           "type": "text"
         },
         {
@@ -156,11 +186,103 @@
             "translation.y": 0,
             "zoom_level": 1
           },
-          "stack_index": 0,
+          "stack_index": 4,
           "type": "text"
         },
         {
           "buffer": 2,
+          "semi_transient": false,
+          "settings": {
+            "buffer_size": 856,
+            "regions": {},
+            "selection": [
+              [
+                12,
+                12
+              ]
+            ],
+            "settings": {
+              "auto_name": "Hi @blingco,",
+              "syntax": "Packages/Text/Plain text.tmLanguage"
+            },
+            "translation.x": 0,
+            "translation.y": 0,
+            "zoom_level": 1
+          },
+          "stack_index": 3,
+          "type": "text"
+        },
+        {
+          "buffer": 3,
+          "semi_transient": false,
+          "settings": {
+            "buffer_size": 2782,
+            "regions": {},
+            "selection": [
+              [
+                1181,
+                1181
+              ]
+            ],
+            "settings": {
+              "auto_name": "Isang Maganda na Hardin",
+              "syntax": "Packages/Text/Plain text.tmLanguage"
+            },
+            "translation.x": 0,
+            "translation.y": 0,
+            "zoom_level": 1
+          },
+          "stack_index": 1,
+          "type": "text"
+        },
+        {
+          "buffer": 4,
+          "file": "/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/bigram.bk",
+          "semi_transient": false,
+          "settings": {
+            "buffer_size": 13527,
+            "regions": {},
+            "selection": [
+              [
+                83,
+                83
+              ]
+            ],
+            "settings": {
+              "syntax": "Packages/Text/Plain text.tmLanguage"
+            },
+            "translation.x": 0,
+            "translation.y": 0,
+            "zoom_level": 1
+          },
+          "stack_index": 0,
+          "type": "text"
+        },
+        {
+          "buffer": 5,
+          "file": "/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/bigram.tg",
+          "semi_transient": false,
+          "settings": {
+            "buffer_size": 13509,
+            "regions": {},
+            "selection": [
+              [
+                79,
+                79
+              ]
+            ],
+            "settings": {
+              "syntax": "Packages/Text/Plain text.tmLanguage"
+            },
+            "translation.x": 0,
+            "translation.y": 31937,
+            "zoom_level": 1
+          },
+          "stack_index": 2,
+          "type": "text"
+        },
+        {
+          "buffer": 6,
           "file": "scripts/s510-core",
           "semi_transient": false,
           "settings": {
@@ -179,11 +301,11 @@
             "translation.y": 0,
             "zoom_level": 1
           },
-          "stack_index": 2,
+          "stack_index": 6,
           "type": "text"
         },
         {
-          "buffer": 3,
+          "buffer": 7,
           "file": "scripts/s510-misc",
           "semi_transient": false,
           "settings": {
@@ -202,11 +324,11 @@
             "translation.y": 0,
             "zoom_level": 1
           },
-          "stack_index": 6,
+          "stack_index": 10,
           "type": "text"
         },
         {
-          "buffer": 4,
+          "buffer": 8,
           "file": "/etc/rc.local",
           "semi_transient": false,
           "settings": {
@@ -225,11 +347,11 @@
             "translation.y": 0,
             "zoom_level": 1
           },
-          "stack_index": 4,
+          "stack_index": 8,
           "type": "text"
         },
         {
-          "buffer": 5,
+          "buffer": 9,
           "file": "/etc/sysctl.conf",
           "semi_transient": false,
           "settings": {
@@ -248,11 +370,11 @@
             "translation.y": 434,
             "zoom_level": 1
           },
-          "stack_index": 5,
+          "stack_index": 9,
           "type": "text"
         },
         {
-          "buffer": 6,
+          "buffer": 10,
           "semi_transient": false,
           "settings": {
             "buffer_size": 19,
@@ -271,7 +393,7 @@
             "translation.y": 0,
             "zoom_level": 1
           },
-          "stack_index": 3,
+          "stack_index": 7,
           "type": "text"
         }
       ]

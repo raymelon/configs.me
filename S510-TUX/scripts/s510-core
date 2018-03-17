@@ -61,3 +61,5 @@ sudo add-apt-repository ppa:papirus/papirus
 sudo apt-get update
 sudo apt-get install papirus-icon-theme
 
+# 7z utiliy
+sudo apt-get install p7zip-full
