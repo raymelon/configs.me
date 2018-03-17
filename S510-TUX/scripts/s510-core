@@ -63,3 +63,6 @@ sudo apt-get install papirus-icon-theme
 
 # 7z utiliy
 sudo apt-get install p7zip-full
+
+# thefuck
+sudo pip3 install thefuck
