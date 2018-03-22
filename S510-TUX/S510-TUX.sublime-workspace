@@ -1,1 +1,326 @@
-
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tg",
+				"tg_vocab"
+			],
+			[
+				"b",
+				"bleu_transition"
+			],
+			[
+				"bk",
+				"bk_vocab"
+			],
+			[
+				"inpu",
+				"input_file"
+			],
+			[
+				"gen",
+				"gen_sentence_from_monograms"
+			],
+			[
+				"load",
+				"load_monograms"
+			],
+			[
+				"prepar",
+				"prepare_input_monogram"
+			],
+			[
+				"in",
+				"input_"
+			],
+			[
+				"tem",
+				"temp_file"
+			],
+			[
+				"g",
+				"gr_tags"
+			],
+			[
+				"cl",
+				"cl_tokens"
+			],
+			[
+				"out",
+				"out_file"
+			],
+			[
+				"das",
+				"dash_pos_orig"
+			],
+			[
+				"da",
+				"dash_pos_trans"
+			],
+			[
+				"ds",
+				"dash_pos"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/rayman/.ssh/id_rsa.pub",
+			"settings":
+			{
+				"buffer_size": 390,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "ma",
+		"selected_items":
+		[
+			[
+				"ma",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"mat",
+				"Material Theme: Configuration"
+			],
+			[
+				"mater",
+				"Material Theme: Info"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 513.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/test_data/Stories/TAGALOG Nagsimula ang Paghihirap.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/test_data/Stories/TAGALOG Mga Higante sa Lupa.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/test_data/Stories/TAGALOG Ang Diyos nagsimula na lumikha.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/test_data/Stories/An Diyos Nagpuon na Maglalang.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/test_data/Stories/An Inot na Lalaki Asin Babayi.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/tag_vocab.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/bikol_vocab.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/vocab.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/vocab.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/monogram.tg",
+		"/home/rayman/Documents/Orangefix/Sinugbuanong/app/src/main/java/net/orangefix/sinugbuanong/LettersPresentation.java",
+		"/home/rayman/Documents/Orangefix/Sinugbuanong/build.gradle",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/every_module.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/Test-Sentences.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/new_model/nlp/test.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/monogram_te.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/monogram.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/new_model/nlp/train.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/new_model/nlp/train.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/monogram_te.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/predictor2.py",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/.gitignore",
+		"/home/rayman/Documents/Peyups/8th/Program.cs",
+		"/home/rayman/Documents/Peyups/8th/bigram3k.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/predictor2.py.",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/vocab_old.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/new_model/nlp/monogram.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/new_model/nlp/monogram_te.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/new_model/nlp/monogram.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/temp.tg",
+		"/home/rayman/Documents/Peyups/8th/bigram3k.tg",
+		"/home/rayman/Documents/Peyups/8th/vocab3k.bk",
+		"/home/rayman/Documents/Peyups/8th/vocab3k.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/tokenizer/tokenizer.py",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/spellchecker/expander.py",
+		"/home/rayman/Documents/Peyups/8th/snippet-Copy.py",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/bigram.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/test.tg",
+		"/home/rayman/Documents/Peyups/8th/raw.bk.txt",
+		"/home/rayman/Documents/Sides/configs.me/S510-TUX/scripts/s510-misc",
+		"/home/rayman/Documents/Sides/configs.me/S510-TUX/scripts/s510-setups",
+		"/home/rayman/s510-setups"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/rayman/.ssh/id_rsa.pub",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								390,
+								390
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "S510-TUX.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
